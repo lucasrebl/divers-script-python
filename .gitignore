@@ -1,0 +1,9 @@
+# --- Fichiers et dossiers générés par les scripts ---
+**/cards_svgs/
+**/cards_images.json
+
+# --- IDE / éditeurs ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
